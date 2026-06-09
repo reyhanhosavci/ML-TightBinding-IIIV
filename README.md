@@ -6,7 +6,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange.svg)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> **Associated paper:** D. Malkoç and R. Hoşavcı, "Comparison of Machine Learning Models for sp³s\* Tight-Binding Parameter Prediction in III-V Binary Semiconductors," *ICCSA 2026* (submitted).
+> **Associated paper:** D. Malkoç and R. Hoşavcı, "Investigation of Machine Learning Models for sp³s\* Tight-Binding Parameter Prediction in III-V Binary Semiconductors," *CAS 2026* (submitted).
 
 ---
 
@@ -145,9 +145,9 @@ If you use this code in your research, please cite:
 ```bibtex
 @inproceedings{malkoc2026ml_tb,
   author    = {Malko\c{c}, Derya and Ho\c{s}avc{\i}, Reyhan},
-  title     = {Comparison of Machine Learning Models for sp$^3$s$^*$ 
+  title     = {Investigation of Machine Learning Models for sp$^3$s$^*$ 
                Tight-Binding Parameter Prediction in {III-V} Binary Semiconductors},
-  booktitle = {International Conference on Computational Science and Its Applications (ICCSA)},
+  booktitle = {International Semiconductor Conference – CAS 2026},
   year      = {2026},
   note      = {Submitted}
 }
